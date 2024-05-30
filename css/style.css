@@ -17,3 +17,31 @@ body{
     border-radius: 25px;
 }
 
+.t1{
+    color: rgb(46, 91, 226);
+    text-align: center;
+    padding-top: 65px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.t2{
+    color: rgb(0, 6, 68);
+    text-align: center;
+    padding-top: 20px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 38px;
+    font-weight: 600;
+}
+
+.t3{
+    color: rgb(75, 75, 75);
+    text-align: center;
+    padding-top: 10px;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
